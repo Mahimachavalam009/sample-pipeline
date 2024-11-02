@@ -2,7 +2,7 @@
 
 # Node.js CI/CD Pipeline
 
-This project is a simple Node.js application that demonstrates a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins. The application responds with "Hello, World!" when accessed.
+This project is a simple Node.js application that demonstrates a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins.
 
 
 ## Features
