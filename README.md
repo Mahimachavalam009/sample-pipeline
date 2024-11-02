@@ -23,7 +23,7 @@ This project is a simple Node.js application that demonstrates a Continuous Inte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/my-node-app.git
+   git clone https://github.com/Mahimachavalam009/sample-pipeline
    cd my-node-app
    ```
 2. Install dependencies: Ensure you have Node.js installed. Then, run:
